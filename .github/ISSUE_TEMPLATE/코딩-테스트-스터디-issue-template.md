@@ -1,7 +1,7 @@
 ---
 name: 코딩 테스트 스터디 issue template
 about: Describe this issue template's purpose here.
-title: 코딩 테스트 스터디 0주차 (2025.00.00 - 2025.00.00)
+title: "\U0001F4DA 코딩 테스트 스터디 0주차 (2025.00.00 - 2025.00.00)"
 labels: ''
 assignees: ''
 
