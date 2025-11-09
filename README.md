@@ -28,8 +28,9 @@
 | refactor | 코드 리팩토링 |
 | add | 패키지, 파일 추가 |
 | comment	| 주석 추가(코드 변경 X) 혹은 오타 수정 |
-| docs | README와 같은 문서 수정 |
-| rename | 파일, 폴더명 수정 혹은 이동 | 
+| docs | `README.md`와 같은 문서 수정 |
+| rename | 파일, 폴더명 수정 혹은 이동 |
+| chore | 빌드, 종속성, `.gitignore`와 같은 환경 설정 수정 |
 
 
 ## ✅ PR 규칙
