@@ -10,7 +10,7 @@ public class n18_TwoSum {
     }
 
     /**
-     * 시간복잡도: O(N*K)
+     * 시간복잡도: O(N+K)
      */
     private static boolean solution(int[] arr, int target) {
         HashSet<Integer> hashSet = new HashSet<>();
